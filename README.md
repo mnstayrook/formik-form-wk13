@@ -7,7 +7,11 @@ _Created by Maegan Stayrook_
 Description:
 Maegan had to create a form based off a Formik template. She created a simple one where you are required to use an email login and password.
 
+![Formik Form](formik-form-screenshot.png)
+
 How to Run:
+PLEASE NOTE: This was run through React, so you may have to download files and run npm install into the directory.
+ 
 Load page. Login with email and password; error messages will pop up if you do not use an email or try to skip. This form is merely to show how to use the form; it does not navigate anywhere.
 
 Roadmap:
